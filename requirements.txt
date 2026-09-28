@@ -1,0 +1,25 @@
+# Brain Tumor Detection System - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# Progress Bars
+tqdm>=4.65.0
+
+# Optional: For faster data loading (recommended)
+# opencv-python>=4.8.0

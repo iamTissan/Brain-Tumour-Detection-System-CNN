@@ -1,0 +1,11 @@
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.zip
+__pycache__/
+venv/
+.env
+
+dataset/
